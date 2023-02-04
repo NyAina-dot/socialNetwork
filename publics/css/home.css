@@ -1,0 +1,15 @@
+.disconnect i {
+    color: red;
+    font-size: 40px;
+}
+.content {
+    margin-top: 100px;
+}
+.centre {
+    background-color: grey;
+}
+#icons {
+    justify-content: center;
+    display: flex;
+    /* border: 1px solid black; */
+}
